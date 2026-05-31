@@ -1,0 +1,1230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605311822449L825W</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>2026053118224419IBD0</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Guia de recuperació RA4 i RA5 Sostenibilitat</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Organització i ús crític de la IA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Diana Posa Gómez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>ca</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780243467637</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>08418c52-88be-44ad-a8cf-b1706821af3e</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Per què refem aquests encàrrecs?</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Per què refem aquests encàrrecs?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Per què refem aquests encàrrecs?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>08418c52-88be-44ad-a8cf-b1706821af3e</odePageId>
+      <odeBlockId>block-1780209235506-yv8z9hr33</odeBlockId>
+      <blockName>Hola</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>08418c52-88be-44ad-a8cf-b1706821af3e</odePageId>
+          <odeBlockId>block-1780209235506-yv8z9hr33</odeBlockId>
+          <odeIdeviceId>idevice-1780209235504-yimxnrxj7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Hola.</p>
+<p>Si estàs llegint aquesta unitat, és perquè has de recuperar al Juny els RA4 i RA5 tornant a presentar els encàrrecs 4, 5 i 8 del projecte Market.</p>
+<p>Hi pot haver dos motius diferents:</p>
+<ul>
+<li>No vas lliurar les tasques al Classroom dins del termini. Potser les havies fet o potser no, però la conseqüència ha estat la mateixa: no constava cap evidència del teu treball.</li>
+<li>Vas lliurar tasques fetes amb intel·ligència artificial, sense criteri propi. El resultat és que el que vas entregar descrivia coses que no s'ajustaven al que havíeu fet realment: materials que no eren els vostres, residus que no generaríeu, processos que no s'aplicarien al Market.</li>
+</ul>
+<p>T'he preparat aquesta guia perquè recuperis els encàrrecs fent la feina ben feta. Si la segueixes pas a pas, sortiràs amb tres encàrrecs aprovats i amb dues habilitats que et seran útils tota la vida professional:</p>
+<ol>
+<li>Organitzar-te en entorns digitals i</li>
+<li>Fer servir la IA de manera crítica.</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780209235504-yimxnrxj7","textInfoDurationInput":"","textInfoDurationTextInput":"Durada","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupació","textTextarea":"<p>Hola.</p>\n<p>Si estàs llegint aquesta unitat, és perquè has de recuperar al Juny els RA4 i RA5 tornant a presentar els encàrrecs 4, 5 i 8 del projecte Market.</p>\n<p>Hi pot haver dos motius diferents:</p>\n<ul>\n<li>No vas lliurar les tasques al Classroom dins del termini. Potser les havies fet o potser no, però la conseqüència ha estat la mateixa: no constava cap evidència del teu treball.</li>\n<li>Vas lliurar tasques fetes amb intel·ligència artificial, sense criteri propi. El resultat és que el que vas entregar descrivia coses que no s'ajustaven al que havíeu fet realment: materials que no eren els vostres, residus que no generaríeu, processos que no s'aplicarien al Market.</li>\n</ul>\n<p>T'he preparat aquesta guia perquè recuperis els encàrrecs fent la feina ben feta. Si la segueixes pas a pas, sortiràs amb tres encàrrecs aprovats i amb dues habilitats que et seran útils tota la vida professional:</p>\n<ol>\n<li>Organitzar-te en entorns digitals i</li>\n<li>Fer servir la IA de manera crítica.</li>\n</ol>","textFeedbackInput":"Mostra la retroacció","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>08418c52-88be-44ad-a8cf-b1706821af3e</odePageId>
+      <odeBlockId>block-1780209911442-hb8uov6y9</odeBlockId>
+      <blockName>Objectius</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>08418c52-88be-44ad-a8cf-b1706821af3e</odePageId>
+          <odeBlockId>block-1780209911442-hb8uov6y9</odeBlockId>
+          <odeIdeviceId>idevice-1780209911440-sfq7am048</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Al final d'aquesta unitat seràs capaç de:</p>
+<ul>
+<li>Organitzar el teu treball al Classroom de manera professional.</li>
+<li>Diferenciar quan la IA t'ajuda i quan t'inventa la realitat.</li>
+<li>Detectar incoherències entre la teva proposta circular i el teu Protocol Ambiental</li>
+<li>Refer els encàrrecs 4, 5 i 8 amb veracitat i criteri propi.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780209911440-sfq7am048","textInfoDurationInput":"","textInfoDurationTextInput":"Durada","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupació","textTextarea":"<p>Al final d'aquesta unitat seràs capaç de:</p>\n<ul>\n<li>Organitzar el teu treball al Classroom de manera professional.</li>\n<li>Diferenciar quan la IA t'ajuda i quan t'inventa la realitat.</li>\n<li>Detectar incoherències entre la teva proposta circular i el teu Protocol Ambiental</li>\n<li>Refer els encàrrecs 4, 5 i 8 amb veracitat i criteri propi.</li>\n</ul>","textFeedbackInput":"Mostra la retroacció","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>08418c52-88be-44ad-a8cf-b1706821af3e</odePageId>
+      <odeBlockId>block-1780210099715-35udr2iay</odeBlockId>
+      <blockName>Informació clau</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>08418c52-88be-44ad-a8cf-b1706821af3e</odePageId>
+          <odeBlockId>block-1780210099715-35udr2iay</odeBlockId>
+          <odeIdeviceId>idevice-1780210099713-ws2vkfdvn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>📅 Termini de lliurament: dilluns 8 de juny, fins a les 23:59h.</p>
+<p>📂 On lliurar: al Classroom de Sostenibilitat - JUNY, a l'activitat creada pels lliuraments.</p>
+<p>✅ Què cal lliurar: encàrrecs 4 i 5 (proposta circular) + encàrrec 8 (Protocol Ambiental).</p>
+<p>📝 Recomanació: completa primer aquesta unitat de principi a fi (uns 45 minuts) i després posa't a refer els encàrrecs. T'estalviarà errors.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780210099713-ws2vkfdvn","textInfoDurationInput":"","textInfoDurationTextInput":"Durada","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupació","textTextarea":"<p>📅 Termini de lliurament: dilluns 8 de juny, fins a les 23:59h.</p>\n<p>📂 On lliurar: al Classroom de Sostenibilitat - JUNY, a l'activitat creada pels lliuraments.</p>\n<p>✅ Què cal lliurar: encàrrecs 4 i 5 (proposta circular) + encàrrec 8 (Protocol Ambiental).</p>\n<p>📝 Recomanació: completa primer aquesta unitat de principi a fi (uns 45 minuts) i després posa't a refer els encàrrecs. T'estalviarà errors.</p>","textFeedbackInput":"Mostra la retroacció","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780210298888-vb0mnwtlp</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Organitzar-te a Classroom</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Organitzar-te a Classroom</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780210298888-vb0mnwtlp</odePageId>
+      <odeBlockId>block-1780210308389-6khthgns7</odeBlockId>
+      <blockName>Organitzar-te a Classroom: una habilitat professional</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780210298888-vb0mnwtlp</odePageId>
+          <odeBlockId>block-1780210308389-6khthgns7</odeBlockId>
+          <odeIdeviceId>idevice-1780210308388-shmfetfcp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Al món laboral, gestionar diverses tasques a la vegada és el dia a dia. Quan treballis, hauràs de gestionar correus de clients, comandes, factures, calendaris i lliuraments. Aprendre a organitzar-te en un Classroom és la millor preparació per a aquesta realitat.</p>
+<p>El Market del Market FP Sant Cugat té 48 encàrrecs distribuïts en 4 fases. És molt de material. Si no prepares un sistema d'organització, perdràs encàrrecs i lliuraràs amb retard. Aquí et dono 5 tècniques per fer-les servir d'ara en endavant.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780210308388-shmfetfcp","textInfoDurationInput":"","textInfoDurationTextInput":"Durada","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupació","textTextarea":"<p>Al món laboral, gestionar diverses tasques a la vegada és el dia a dia. Quan treballis, hauràs de gestionar correus de clients, comandes, factures, calendaris i lliuraments. Aprendre a organitzar-te en un Classroom és la millor preparació per a aquesta realitat.</p>\n<p>El Market del Market FP Sant Cugat té 48 encàrrecs distribuïts en 4 fases. És molt de material. Si no prepares un sistema d'organització, perdràs encàrrecs i lliuraràs amb retard. Aquí et dono 5 tècniques per fer-les servir d'ara en endavant.</p>","textFeedbackInput":"Mostra la retroacció","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780210298888-vb0mnwtlp</odePageId>
+      <odeBlockId>block-1780210651139-oqtejthyy</odeBlockId>
+      <blockName>Llistat de tècniques</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780210298888-vb0mnwtlp</odePageId>
+          <odeBlockId>block-1780210651139-oqtejthyy</odeBlockId>
+          <odeIdeviceId>idevice-1780210651137-5e7rp378m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ol>
+<li>Activa les notificacions del Classroom al mòbil i al correu. Així t'arriben les noves tasques sense haver d'entrar a buscar-les.</li>
+<li>Llegeix sempre les instruccions de cada encàrrec <strong>fins al final</strong>. Sovint la informació important està al darrer paràgraf (formats acceptats, criteris d'avaluació, terminis).</li>
+<li>Marca les tasques pendents amb estrella o etiqueta. Així al cop d'ull saps què et queda.</li>
+<li>Lliura sempre amb 24h de marge mínim. Els errors tècnics, els problemes de connexió o els imprevistos passen el mateix dia del termini.</li>
+<li>Si tens dubtes, escriu un comentari privat al docent dins del propi encàrrec. No esperis al passadís ni a la classe. El docent et respon abans i tens constància escrita de la conversa.</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780210651137-5e7rp378m","textInfoDurationInput":"","textInfoDurationTextInput":"Durada","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupació","textTextarea":"<ol>\n<li>Activa les notificacions del Classroom al mòbil i al correu. Així t'arriben les noves tasques sense haver d'entrar a buscar-les.</li>\n<li>Llegeix sempre les instruccions de cada encàrrec <strong>fins al final</strong>. Sovint la informació important està al darrer paràgraf (formats acceptats, criteris d'avaluació, terminis).</li>\n<li>Marca les tasques pendents amb estrella o etiqueta. Així al cop d'ull saps què et queda.</li>\n<li>Lliura sempre amb 24h de marge mínim. Els errors tècnics, els problemes de connexió o els imprevistos passen el mateix dia del termini.</li>\n<li>Si tens dubtes, escriu un comentari privat al docent dins del propi encàrrec. No esperis al passadís ni a la classe. El docent et respon abans i tens constància escrita de la conversa.</li>\n</ol>","textFeedbackInput":"Mostra la retroacció","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780210298888-vb0mnwtlp</odePageId>
+      <odeBlockId>block-1780210880912-7uqyd12ae</odeBlockId>
+      <blockName>Formulari</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780210298888-vb0mnwtlp</odePageId>
+          <odeBlockId>block-1780210880912-7uqyd12ae</odeBlockId>
+          <odeIdeviceId>idevice-1780210880909-dc98zbojd</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1780210880909-dc98zbojd" data-evaluationb="false" data-evaluationid="7a1fe13e-f478-43ef-ad04-83653d35a38f"></div>
+            <div id="frmMainContainer-idevice-1780210880909-dc98zbojd" class="form-IDevice" data-id="idevice-1780210880909-dc98zbojd">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>Completa les preguntes del qüestionari següent.</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Temps per pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1780210880909-dc98zbojd">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1780210880909-dc98zbojd" style="display:none;">
+                      <button  id="frmStartGame-idevice-1780210880909-dc98zbojd" type="button" class="btn btn-primary">Prem aquí per començar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1780210880909-dc98zbojd" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1780210880909-dc98zbojd" > </div>
+                        <div id="frmCover-idevice-1780210880909-dc98zbojd" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1780210880909-dc98zbojd" class="form-results-container inline">
+                        <div id="form-score-idevice-1780210880909-dc98zbojd" class="score-text">Puntuació.</div>
+                        <div id="form-result-test-idevice-1780210880909-dc98zbojd" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1780210880909-dc98zbojd" class="btn btn-primary" type="button" value="Comprova"
+                            data-id="idevice-1780210880909-dc98zbojd" data-pass-rate="" />
+                        <input id="form-button-reset-idevice-1780210880909-dc98zbojd" type="button" value="Reinicia"
+                            data-id="idevice-1780210880909-dc98zbojd" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-idevice-1780210880909-dc98zbojd" class="btn btn-primary" type="button" value="Mostra respostes"
+                            data-id="idevice-1780210880909-dc98zbojd" style="display: " />
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer">
+                    <div class="Games-GetScore">
+                        <input id="frmPSendScore-idevice-1780210880909-dc98zbojd" type="button" value="Desa puntuació" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780210880909-dc98zbojd","evaluation":false,"evaluationID":"7a1fe13e-f478-43ef-ad04-83653d35a38f","repeatActivity":true,"isScorm":0,"textButtonScorm":"Desa puntuació","weighted":100,"msgs":{"msgScoreScorm":"La puntuació no es pot desar ja que aquesta pàgina no forma part de un paquet SCORM.","msgYouScore":"La teva puntuació és","msgScore":"Puntuació","msgWeight":"Pes","msgYouLastScore":"La darrera puntuació desada és","msgOnlySaveScore":"Només podeu desar la puntuació una vegada!","msgOnlySave":"Només la podeu desar una vegada","msgOnlySaveAuto":"La puntuació es desarà després de cada pregunta. Només podeu  jugar una vegada.","msgSaveAuto":"La puntuació es desarà després de cada pregunta de forma automàtica.","msgSeveralScore":"Pots desar la puntuació tantes vegades com vulguis","msgPlaySeveralTimes":"Pots fer aquesta activitat tantes vegades com vulguis","msgActityComply":"Ja has fet aquesta activitat.","msgUncompletedActivity":"Activitat incompleta","msgSuccessfulActivity":"Activitat. Superada. Puntuació %s","msgUnsuccessfulActivity":"Activitat: No superada. Puntuació %s","msgTypeGame":"Formulari","msgStartGame":"Prem aquí per començar","msgTime":"Temps per pregunta","msgSaveScore":"Desa puntuació","msgResult":"Resultat","msgCheck":"Comprova","msgReset":"Reinicia","msgShowAnswers":"Mostra respostes","msgTestResultPass":"Enhorabona! Has superat la prova","msgTestResultNotPass":"Ho sento. NO has superat la prova","msgTrueFalseHelp":"Selecciona si l'afirmació és certa o falsa","msgDropdownHelp":"Tria la resposta correcta entre les opcions proposades","msgFillHelp":"Omple els espais en blanc amb la paraula adequada","msgSingleSelectionHelp":"Opció múltiple amb només una resposta correcta","msgMultipleSelectionHelp":"Opció múltiple amb múltiples respostes correctes","msgPlayStart":"Prem aquí per començar","msgTrue":"Veritat","msgFalse":"Mentida","msgNext":"Següent","msgPrevious":"Anterior","msgSuggestion":"Suggerència"},"id":"idevice-1780210880909-dc98zbojd","questionsRandom":false,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>Completa les preguntes del qüestionari següent.</p>","questionsData":[{"id":"1780211001001-KQ78G","activityType":"selection","baseText":"<p>Quina de les següents és la millor estratègia per no oblidar-te d'un encàrrec al Classroom?</p>","feedbackRight":"Correcte. La combinació de notificacions + rutina és el sistema que fa servir la majoria de professionals.","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Entrar al Classroom només quan tinc temps lliure"],[true,"Activar notificacions i revisar Classroom cada dia a la mateixa hora "],[false,"Esperar que el docent em recordi els encàrrecs a classe"],[false,"Confiar en la memòria"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780211328162-bxcsx3dp0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>La lògica entre els encàrrecs 4, 5 i 8</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>La lògica entre els encàrrecs 4, 5 i 8</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780211328162-bxcsx3dp0</odePageId>
+      <odeBlockId>block-1780211351579-xf30zm6xv</odeBlockId>
+      <blockName>Aplica el teu pensament crític</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780211328162-bxcsx3dp0</odePageId>
+          <odeBlockId>block-1780211351579-xf30zm6xv</odeBlockId>
+          <odeIdeviceId>idevice-1780211351577-o831y9z2y</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Cada encàrrec del Market depèn dels anteriors, no són peces aïllades. Per això, has d'anar asseguran-te que tots ells són consistents amb la realitat i entre ells mateixos.</p>
+<p>Mira la cadena lògica entre els encàrrecs 4, 5 i 8:</p>
+<p>ENCÀRRECS 4-5  →  Quin producte fareu i amb quins materials?</p>
+<p>ENCÀRREC 8  →  Quins residus generareu i com els gestionareu?</p>
+<p>Si dius als encàrrecs 4-5 que faràs espelmes amb cera reciclada de ciris vells, al Protocol (encàrrec 8) has de poder explicar d'on traieu els ciris, on aniran les restes de cera no usada i què passa amb les espelmes no venudes.</p>
+<p>Si la IA inventa el primer encàrrec amb "espelmes d'esglésies del poble" i tu no hi afegeixes un punt de vista crític, la realitat i allò que has lliurat al protocol no tenen res a veure.</p>
+<p>La coherència entre els encàrrecs i el seu ajustament a la realitat és el que distingeix un projecte real amb suport d'IA, d'un text generat per IA sense pensament humà.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780211351577-o831y9z2y","textInfoDurationInput":"","textInfoDurationTextInput":"Durada","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupació","textTextarea":"<p>Cada encàrrec del Market depèn dels anteriors, no són peces aïllades. Per això, has d'anar asseguran-te que tots ells són consistents amb la realitat i entre ells mateixos.</p>\n<p>Mira la cadena lògica entre els encàrrecs 4, 5 i 8:</p>\n<p>ENCÀRRECS 4-5  →  Quin producte fareu i amb quins materials?</p>\n<p>ENCÀRREC 8  →  Quins residus generareu i com els gestionareu?</p>\n<p>Si dius als encàrrecs 4-5 que faràs espelmes amb cera reciclada de ciris vells, al Protocol (encàrrec 8) has de poder explicar d'on traieu els ciris, on aniran les restes de cera no usada i què passa amb les espelmes no venudes.</p>\n<p>Si la IA inventa el primer encàrrec amb \"espelmes d'esglésies del poble\" i tu no hi afegeixes un punt de vista crític, la realitat i allò que has lliurat al protocol no tenen res a veure.</p>\n<p>La coherència entre els encàrrecs i el seu ajustament a la realitat és el que distingeix un projecte real amb suport d'IA, d'un text generat per IA sense pensament humà.</p>","textFeedbackInput":"Mostra la retroacció","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780211328162-bxcsx3dp0</odePageId>
+      <odeBlockId>block-1780212364750-6lvx8msie</odeBlockId>
+      <blockName>Galeria d&apos;imatges</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780211328162-bxcsx3dp0</odePageId>
+          <odeBlockId>block-1780212364750-6lvx8msie</odeBlockId>
+          <odeIdeviceId>idevice-1780212364748-c5x4oarhh</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780212364748-c5x4oarhh" title="" href="{{context_path}}/content/resources/la lògica del market.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/la lògica del market.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1780212364748-c5x4oarhh" title="" href="{{context_path}}/content/resources/el factor huma.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/el factor huma.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780212364748-c5x4oarhh","img_1":{"img":"{{context_path}}/content/resources/la lògica del market.png","thumbnail":"{{context_path}}/content/resources/la lògica del market.png","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_0":{"img":"{{context_path}}/content/resources/el factor huma.png","thumbnail":"{{context_path}}/content/resources/el factor huma.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780211328162-bxcsx3dp0</odePageId>
+      <odeBlockId>block-1780212021151-ac8tjgmjn</odeBlockId>
+      <blockName>Revisa amb honestedat el teu treball</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780211328162-bxcsx3dp0</odePageId>
+          <odeBlockId>block-1780212021151-ac8tjgmjn</odeBlockId>
+          <odeIdeviceId>idevice-1780212021147-c42w5kiyf</odeIdeviceId>
+          <odeIdeviceTypeName>casestudy</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-casestudy-container">
+  
+        <div class="caseStudyContent">            
+            <div class="CSP-Info mb-3">
+                
+            <dl>
+                <div class="inline"><dt><span title=""></span></dt><dd></dd></div>
+                <div class="inline"><dt><span title=""></span></dt><dd></dd></div>
+            </dl>
+            </div>
+            <div class="CSP-History mb-3" >
+                <p>Pensa en el teu cas i repassa amb esperit crític les incoherències amb la realitat.</p>
+<p>Tot seguit, t'indico 5 incoherències típiques entre els encàrrecs 4-5, la <br />cartelleria, el Protocol Ambiental i la realitat:</p>
+<p><strong>1. Materials genèrics vs materials reals</strong><br />Als encàrrecs 4-5 deies que els teus materials eren "reciclats", "sostenibles" o "ecològics" sense dir d'on venien concretament? Al Protocol Ambiental, <br />vas identificar el proveïdor real (Rosetó, professorat, amazon, donacions d'alumnes, etc...) o vas continuar amb descripcions vagues i allunyades de la realitat?</p>
+<p><strong>2. Procés declarat vs procés real</strong><br />Als encàrrecs es demanava que descrivissiu el procés de producció. Aquest procés s'ajusta a la realitat, o vau indicar que farieu servir materies primeres i envoltoris que en realitat no vam fer servir? Per què creus que hi ha aquestes incoherències?</p>
+<p><strong>3. Cartelleria vs producte final</strong><br />Les imatges dels cartells i de les xarxes socials es corresponien amb el que finalment vau <br />servir al Market? O vas fer servir imatges generades amb IA que mostraven un producte molt diferent del real? En una empresa, això es considera publicitat enganyosa.</p>
+<p><strong>5. Compromisos ideals no complets</strong><br />Realment vau complir amb tots els compromisos? Per exemple, vau declarar que "portarieu tres bosses de colors per separar residus" però després no ho vau fer? Si és així, heu d'explicar perquè no vau complir amb els vostres compromisos i com fer-ho millor el pròxim cop.</p>
+            </div>
+            <div class="CSP-Activities mb-3">
+                
+                <div class="CSP-ActivityDiv ">
+                    <div class="CSP-Activity mb-3">
+                        <p>Ara, identifica les 2 incoherències més importants del teu cas i explica-les amb concreció. Cal que identifiquis concretament què deies als documents, què hauries d'haver dit i <strong>per què hi va haver aquesta diferència</strong>.</p>
+                    </div>
+                    
+                    <div class="CSP-FeedbackText feedback js-feedback js-hidden" style="display: none;">
+                        
+                    </div>
+                </div>
+            
+            </div>
+        </div>
+    
+</div>
+]]></htmlView>
+          <jsonProperties><![CDATA[{"id":"idevice-1780212021147-c42w5kiyf","typeGame":"Case study","history":"<p>Pensa en el teu cas i repassa amb esperit crític les incoherències amb la realitat.</p>\n<p>Tot seguit, t'indico 5 incoherències típiques entre els encàrrecs 4-5, la <br />cartelleria, el Protocol Ambiental i la realitat:</p>\n<p><strong>1. Materials genèrics vs materials reals</strong><br />Als encàrrecs 4-5 deies que els teus materials eren \"reciclats\", \"sostenibles\" o \"ecològics\" sense dir d'on venien concretament? Al Protocol Ambiental, <br />vas identificar el proveïdor real (Rosetó, professorat, amazon, donacions d'alumnes, etc...) o vas continuar amb descripcions vagues i allunyades de la realitat?</p>\n<p><strong>2. Procés declarat vs procés real</strong><br />Als encàrrecs es demanava que descrivissiu el procés de producció. Aquest procés s'ajusta a la realitat, o vau indicar que farieu servir materies primeres i envoltoris que en realitat no vam fer servir? Per què creus que hi ha aquestes incoherències?</p>\n<p><strong>3. Cartelleria vs producte final</strong><br />Les imatges dels cartells i de les xarxes socials es corresponien amb el que finalment vau <br />servir al Market? O vas fer servir imatges generades amb IA que mostraven un producte molt diferent del real? En una empresa, això es considera publicitat enganyosa.</p>\n<p><strong>5. Compromisos ideals no complets</strong><br />Realment vau complir amb tots els compromisos? Per exemple, vau declarar que \"portarieu tres bosses de colors per separar residus\" però després no ho vau fer? Si és així, heu d'explicar perquè no vau complir amb els vostres compromisos i com fer-ho millor el pròxim cop.</p>","textInfoDurationInput":"","textInfoDurationTextInput":"Durada","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupació","activities":[{"activity":"<p>Ara, identifica les 2 incoherències més importants del teu cas i explica-les amb concreció. Cal que identifiquis concretament què deies als documents, què hauries d'haver dit i <strong>per què hi va haver aquesta diferència</strong>.</p>","feedback":"","buttonCaption":"Mostra la retroacció"}]}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780235528581-3ms11qdfx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>IA: quan ajuda i quan inventa</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>IA: quan ajuda i quan inventa</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780235528581-3ms11qdfx</odePageId>
+      <odeBlockId>block-1780235546919-x5qwchdb4</odeBlockId>
+      <blockName>Intel·ligència artificial: quan t&apos;ajuda i quan t&apos;inventa la realitat</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780235528581-3ms11qdfx</odePageId>
+          <odeBlockId>block-1780235546919-x5qwchdb4</odeBlockId>
+          <odeIdeviceId>idevice-1780235546917-4rtiab9ch</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La intel·ligència artificial generativa (ChatGPT, Gemini, Copilot, Claude i altres) és una eina poderosa que utilitzaràs tota la teva vida professional. <strong>Però no és un substitut del teu pensament</strong>. És un assistent.</p>
+<p>La gran trampa de la IA és que escriu tan bé que sembla que sàpiga del que parla. Però tot el que escriu sobre tu, en realitat, l'està inventant a partir de patrons. El cervell ets tu: explica-li què vols fer i demana-li que t'ajudi a trobar punts forts, punts febles o a fer una bona redacció.</p>
+<p>Si deixes que sigui la IA la que decideixi per tu, mai podràs aportar res que no pugui aportar un nen de 9 anys fent servir la mateixa IA.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780235546917-4rtiab9ch","textInfoDurationInput":"","textInfoDurationTextInput":"Durada","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupació","textTextarea":"<p>La intel·ligència artificial generativa (ChatGPT, Gemini, Copilot, Claude i altres) és una eina poderosa que utilitzaràs tota la teva vida professional. <strong>Però no és un substitut del teu pensament</strong>. És un assistent.</p>\n<p>La gran trampa de la IA és que escriu tan bé que sembla que sàpiga del que parla. Però tot el que escriu sobre tu, en realitat, l'està inventant a partir de patrons. El cervell ets tu: explica-li què vols fer i demana-li que t'ajudi a trobar punts forts, punts febles o a fer una bona redacció.</p>\n<p>Si deixes que sigui la IA la que decideixi per tu, mai podràs aportar res que no pugui aportar un nen de 9 anys fent servir la mateixa IA.</p>","textFeedbackInput":"Mostra la retroacció","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780235528581-3ms11qdfx</odePageId>
+      <odeBlockId>block-1780235833565-kwdi31ijy</odeBlockId>
+      <blockName>Cert o fals</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780235528581-3ms11qdfx</odePageId>
+          <odeBlockId>block-1780235833565-kwdi31ijy</odeBlockId>
+          <odeIdeviceId>idevice-1780235833562-cu3d8vjtr</odeIdeviceId>
+          <odeIdeviceTypeName>trueorfalse</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-trueorfalse-container">
+  
+    <div class="game-evaluation-ids js-hidden" data-id="idevice-1780235833562-cu3d8vjtr" data-evaluationb="false" data-evaluationid=""></div>
+        <div class="TOFP-instructions"><p>Respon totes les preguntes d'aquest qüestionari. Indicant si l'afirmació és certa o falsa.</p></div>
+        <div class="TOFP-MainContainer" data-instance="idevice-1780235833562-cu3d8vjtr" id="tofPMainContainer-idevice-1780235833562-cu3d8vjtr">
+            <div class="TOFP-GameContainer" id="tofPGameContainer-idevice-1780235833562-cu3d8vjtr">
+                <div class="TOFP-GameScoreBoard TOFP-EHidden">
+                    <div class="TOFP-TimeNumber">
+                        <strong><span class="sr-av">Temps per pregunta:</span></strong>
+                        <p id="tofPPTime-idevice-1780235833562-cu3d8vjtr" class="TOFP-PTime">00:00:</p>
+                    </div>
+                </div>
+                <div class="TOFP-MessgeDiv" id="tofPMessageDiv-idevice-1780235833562-cu3d8vjtr">
+                    <div class="TOFP-Message" id="tofPMessage-idevice-1780235833562-cu3d8vjtr"></div>
+                </div>
+                <div class="TOFP-StartGameDiv TOFP-EHidden" id="tofPStartGameDiv-idevice-1780235833562-cu3d8vjtr">
+                    <button  id="tofPStartGame-idevice-1780235833562-cu3d8vjtr" type="button" class="btn btn-primary">Prem aquí per començar</button>
+                </div>
+                <div class="TOFP-Multimedia " id="tofPMultimedia-idevice-1780235833562-cu3d8vjtr">
+                </div>
+                <div class="TOFP-CheckTestDiv TOFP-EHidden" id="tofPCheckTestDiv-idevice-1780235833562-cu3d8vjtr">
+                    <button id="tofPCheckTest-idevice-1780235833562-cu3d8vjtr" type="button" class="btn btn-primary">Comprova</button>
+                    <button id="tofRebootTest-idevice-1780235833562-cu3d8vjtr" type="button" class="btn btn-primary TOFP-EHidden">Torna-ho a provar</button>
+                </div>
+        </div> 
+        <div class="Games-BottonContainer">
+            <div class="Games-GetScore">
+                <input id="tofPSendScore-idevice-1780235833562-cu3d8vjtr" type="button" value="Desa puntuació" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+            </div>
+        </div>
+        <div class="TOFP-After"></div>
+        <div class="questionsMedia" style="display:none"></div>
+</div>
+]]></htmlView>
+          <jsonProperties><![CDATA[{"id":"idevice-1780235833562-cu3d8vjtr","typeGame":"TrueOrFalse","eXeGameInstructions":"<p>Respon totes les preguntes d'aquest qüestionari. Indicant si l'afirmació és certa o falsa.</p>","eXeIdeviceTextAfter":"","msgs":{"msgStartGame":"Prem aquí per començar","msgTime":"Temps per pregunta","msgNoImage":"Qüestió sense imatges","msgScoreScorm":"La puntuació no es pot desar ja que aquesta pàgina no forma part de un paquet SCORM.","msgEndGameScore":"Inicieu el joc abans de desar la puntuació.","msgOnlySaveScore":"Només podeu desar la puntuació una vegada!","msgOnlySave":"Només la podeu desar una vegada","msgYouScore":"La seva puntuació","msgAuthor":"Autoria","msgOnlySaveAuto":"La puntuació es desarà després de cada pregunta. Només podeu  jugar una vegada.","msgSaveAuto":"La puntuació es desarà després de cada pregunta de forma automàtica.","msgSeveralScore":"Pots desar la puntuació tantes vegades com vulguis","msgYouLastScore":"La darrera puntuació desada és","msgActityComply":"Ja has fet aquesta activitat.","msgPlaySeveralTimes":"Pots fer aquesta activitat tantes vegades com vulguis","msgUncompletedActivity":"Activitat incompleta","msgSuccessfulActivity":"Activitat. Superada. Puntuació %s","msgUnsuccessfulActivity":"Activitat: No superada. Puntuació %s","msgTypeGame":"Cert o fals","msgFeedback":"Retroacció","msgSuggestion":"Suggerència","msgSolution":"Solució","msgQuestion":"Qüestió","msgTrue":"Veritat","msgFalse":"Mentida","msgOk":"Correcte","msgKO":"Incorrecte","msgShow":"Mostra","msgHide":"Amaga","msgCheck":"Comprova","msgReboot":"Torna-ho a provar","msgScore":"Puntuació","msgWeight":"Pes","msgNext":"Següent","msgPrevious":"Anterior"},"questionsRandom":false,"percentageQuestions":100,"isTest":false,"time":0,"questionsGame":[{"question":"<p>He decidit quina vull que sigui la resposta a cada una de les preguntes del Protocol. Li demano a la IA que m'ajudi a detectar els punts febles del meu raonament. Això és un ús correcte de la IA.</p>","feedback":"<p>La IA et pot ajudar a enriquir el teu pensament amb punts de vista que inicialment no havies considerat.</p>","suggestion":"","solution":1},{"question":"<p>Li demano a la IA que em faci el Protocol Ambiental per a una parada de gelats al Market Sostenible del meu institut. Això és un ús degut de la IA.</p>","feedback":"<p>No permetis que l'ús de la IA t'impedeixi fer servir el teu cervell i desenvolupar les teves capacitats.</p>","suggestion":"","solution":0},{"question":"<p>No sé com classificar uns residus al Protocol. Pregunto a la IA quin contenidor és el correcte per als tovallons de paper fets servir. Això és un ús correcte de la IA.</p>","feedback":"<p>Pots preguntar-li a la IA sobre informació tècnica (verifica-la després per assegurar-te que no se la inventa).</p>","suggestion":"","solution":1},{"question":"<p>Copio el Protocol que vaig preparar durant l'avaluació continuada, li enganxo els encàrrecs de la profe i li demano a la IA que em millori la feina original. Això és un ús degut de la IA.</p>","feedback":"<p>Això té el mateix valor que copiar la feina que ha fet una altra persona, ja que no hi has posat esforç ni intenció.</p>","suggestion":"","solution":0},{"question":"<p>He acabat de redactar el meu Protocol i li demano a la IA que el llegeixi i em digui si hi ha alguna cosa que no s'entengui o que sigui poc clara. Això és un ús correcte de la IA.</p>","feedback":"<p>Fer servir la IA com a revisor ajuda a millorar la qualitat d'allò que has escrit tu mateix.</p>","suggestion":"","solution":1}],"isScorm":0,"textButtonScorm":"Desa puntuació","repeatActivity":true,"weighted":100,"evaluation":false,"evaluationID":"","showSlider":false,"ideviceId":"idevice-1780235833562-cu3d8vjtr"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780236677793-7mtort1et</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Una proposta circular sòlida (encàrrecs 4-5)</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Una proposta circular sòlida (encàrrecs 4-5)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780236677793-7mtort1et</odePageId>
+      <odeBlockId>block-1780236687118-u4bc7khzu</odeBlockId>
+      <blockName>Encàrrecs 4 i 5</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780236677793-7mtort1et</odePageId>
+          <odeBlockId>block-1780236687118-u4bc7khzu</odeBlockId>
+          <odeIdeviceId>idevice-1780236687116-l207stxi3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Una proposta circular sòlida té tres característiques que la IA no pot inventar pel teu compte:</p>
+<ul>
+<li>Concreció dels materials. Respecte dels materials Cal dir exactament d'on vindran: gots donats per l'institut? Plantes comprades al viver d'un company? Fruita del Macro que es compra a través del Rosetó? Si no respon a la realitat tens nom propi, no tens material real.</li>
+<li>Especificitat del residu evitat. Cal dir què deixa d'anar a l'abocador gràcies al teu producte: 50 ampolles de plàstic? 10 kg de cera de ciris? 30 peces de roba?</li>
+<li>Realitat de la "segona vida". Quan el client ja no vulgui el teu producte, on anirà? Si la resposta és "al contenidor groc", no és circular. Si la resposta és "el pot retornar a la mateixa parada de l'any vinent", sí ho és.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780236687116-l207stxi3","textInfoDurationInput":"","textInfoDurationTextInput":"Durada","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupació","textTextarea":"<p>Una proposta circular sòlida té tres característiques que la IA no pot inventar pel teu compte:</p>\n<ul>\n<li>Concreció dels materials. Respecte dels materials Cal dir exactament d'on vindran: gots donats per l'institut? Plantes comprades al viver d'un company? Fruita del Macro que es compra a través del Rosetó? Si no respon a la realitat tens nom propi, no tens material real.</li>\n<li>Especificitat del residu evitat. Cal dir què deixa d'anar a l'abocador gràcies al teu producte: 50 ampolles de plàstic? 10 kg de cera de ciris? 30 peces de roba?</li>\n<li>Realitat de la \"segona vida\". Quan el client ja no vulgui el teu producte, on anirà? Si la resposta és \"al contenidor groc\", no és circular. Si la resposta és \"el pot retornar a la mateixa parada de l'any vinent\", sí ho és.</li>\n</ul>","textFeedbackInput":"Mostra la retroacció","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780236677793-7mtort1et</odePageId>
+      <odeBlockId>block-1780237869418-g8tyxc4xb</odeBlockId>
+      <blockName>Els tres nivells de la sostenibilitat</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780236677793-7mtort1et</odePageId>
+          <odeBlockId>block-1780237869418-g8tyxc4xb</odeBlockId>
+          <odeIdeviceId>idevice-1780237869417-rczxd392o</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1780237869417-rczxd392o" data-evaluationb="false" data-evaluationid="7a1fe13e-f478-43ef-ad04-83653d35a38f"></div>
+            <div id="frmMainContainer-idevice-1780237869417-rczxd392o" class="form-IDevice" data-id="idevice-1780237869417-rczxd392o">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>Completa les preguntes del qüestionari següent.</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Temps per pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1780237869417-rczxd392o">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1780237869417-rczxd392o" style="display:none;">
+                      <button  id="frmStartGame-idevice-1780237869417-rczxd392o" type="button" class="btn btn-primary">Prem aquí per començar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1780237869417-rczxd392o" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1780237869417-rczxd392o" > </div>
+                        <div id="frmCover-idevice-1780237869417-rczxd392o" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1780237869417-rczxd392o" class="form-results-container inline">
+                        <div id="form-score-idevice-1780237869417-rczxd392o" class="score-text">Puntuació.</div>
+                        <div id="form-result-test-idevice-1780237869417-rczxd392o" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1780237869417-rczxd392o" class="btn btn-primary" type="button" value="Comprova"
+                            data-id="idevice-1780237869417-rczxd392o" data-pass-rate="" />
+                        <input id="form-button-reset-idevice-1780237869417-rczxd392o" type="button" value="Reinicia"
+                            data-id="idevice-1780237869417-rczxd392o" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-idevice-1780237869417-rczxd392o" class="btn btn-primary" type="button" value="Mostra respostes"
+                            data-id="idevice-1780237869417-rczxd392o" style="display: " />
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer">
+                    <div class="Games-GetScore">
+                        <input id="frmPSendScore-idevice-1780237869417-rczxd392o" type="button" value="Desa puntuació" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780237869417-rczxd392o","evaluation":false,"evaluationID":"7a1fe13e-f478-43ef-ad04-83653d35a38f","repeatActivity":true,"isScorm":0,"textButtonScorm":"Desa puntuació","weighted":100,"msgs":{"msgScoreScorm":"La puntuació no es pot desar ja que aquesta pàgina no forma part de un paquet SCORM.","msgYouScore":"La teva puntuació és","msgScore":"Puntuació","msgWeight":"Pes","msgYouLastScore":"La darrera puntuació desada és","msgOnlySaveScore":"Només podeu desar la puntuació una vegada!","msgOnlySave":"Només la podeu desar una vegada","msgOnlySaveAuto":"La puntuació es desarà després de cada pregunta. Només podeu  jugar una vegada.","msgSaveAuto":"La puntuació es desarà després de cada pregunta de forma automàtica.","msgSeveralScore":"Pots desar la puntuació tantes vegades com vulguis","msgPlaySeveralTimes":"Pots fer aquesta activitat tantes vegades com vulguis","msgActityComply":"Ja has fet aquesta activitat.","msgUncompletedActivity":"Activitat incompleta","msgSuccessfulActivity":"Activitat. Superada. Puntuació %s","msgUnsuccessfulActivity":"Activitat: No superada. Puntuació %s","msgTypeGame":"Formulari","msgStartGame":"Prem aquí per començar","msgTime":"Temps per pregunta","msgSaveScore":"Desa puntuació","msgResult":"Resultat","msgCheck":"Comprova","msgReset":"Reinicia","msgShowAnswers":"Mostra respostes","msgTestResultPass":"Enhorabona! Has superat la prova","msgTestResultNotPass":"Ho sento. NO has superat la prova","msgTrueFalseHelp":"Selecciona si l'afirmació és certa o falsa","msgDropdownHelp":"Tria la resposta correcta entre les opcions proposades","msgFillHelp":"Omple els espais en blanc amb la paraula adequada","msgSingleSelectionHelp":"Opció múltiple amb només una resposta correcta","msgMultipleSelectionHelp":"Opció múltiple amb múltiples respostes correctes","msgPlayStart":"Prem aquí per començar","msgTrue":"Veritat","msgFalse":"Mentida","msgNext":"Següent","msgPrevious":"Anterior","msgSuggestion":"Suggerència"},"id":"idevice-1780237869417-rczxd392o","questionsRandom":false,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>Completa les preguntes del qüestionari següent.</p>","questionsData":[{"id":"1780238053899-9Y264","activityType":"selection","baseText":"<p>Una llimonada feta amb llimones de temporada comprades en una fruiteria local, servida en got de plàstic d'un sol ús. Quin nivell de circularitat té?</p>","feedbackRight":"Correcte: té materials de proximitat però l'embalatge segueix sent un problema.","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"Nivell 1 - Millor que l'alternativa"],[false,"Nivell 2 - Sostenible per disseny"],[false,"Nivell 3 - Circular"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780238224264-Q9UDD","activityType":"selection","baseText":"<p>Polseres fetes amb fils de roba donada, sense embalatge, venudes en paper kraft reciclat. Quin nivell de circularitat té?</p>","feedbackRight":"Correcte. Materials recuperats i embalatge mínim, però no tanca el bucle completament.","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Nivell 1 - Millor que l'alternativa"],[true,"Nivell 2 - Sostenible per disseny"],[false,"Nivell 3 - Circular"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1780238410821-0FNA2","activityType":"selection","baseText":"<p>Espelmes fetes amb cera de ciris vells donats per l'alumnat, venudes en pots de vidre reutilitzats que el comprador pot retornar per omplir-los de nou. Quin nivell de circularitat té?</p>","feedbackRight":"Correcte. El sistema de retorn del got tanca el bucle dels envasos, i els ingredients són de proximitat.","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Nivell 1 - Millor que l'alternativa"],[false,"Nivell 2 - Sostenible per disseny"],[true,"Nivell 3 - Circular"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780236677793-7mtort1et</odePageId>
+      <odeBlockId>block-1780238439645-mq2wfi2h3</odeBlockId>
+      <blockName>La sinceritat val més que la falsa perfecció</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780236677793-7mtort1et</odePageId>
+          <odeBlockId>block-1780238439645-mq2wfi2h3</odeBlockId>
+          <odeIdeviceId>idevice-1780238439643-f1h93g3dj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>L'objectiu del Market era que tots els productes estiguessin al Nivell 2. No obstant això, un Nivell 1 ben justificat és preferible a un Nivell 3 que no es pot executar realment. La sinceritat val més que la perfecció inventada de la IA.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780238439643-f1h93g3dj","textInfoDurationInput":"","textInfoDurationTextInput":"Durada","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupació","textTextarea":"<p>L'objectiu del Market era que tots els productes estiguessin al Nivell 2. No obstant això, un Nivell 1 ben justificat és preferible a un Nivell 3 que no es pot executar realment. La sinceritat val més que la perfecció inventada de la IA.</p>","textFeedbackInput":"Mostra la retroacció","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780238608334-ub11zn6i2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Un protocol ambiental veraç (l&apos;encàrrec 8)</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Un protocol ambiental veraç (l&apos;encàrrec 8)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780238608334-ub11zn6i2</odePageId>
+      <odeBlockId>block-1780238621774-z9zb9k629</odeBlockId>
+      <blockName>La realitat del projecte</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780238608334-ub11zn6i2</odePageId>
+          <odeBlockId>block-1780238621774-z9zb9k629</odeBlockId>
+          <odeIdeviceId>idevice-1780238621772-5mh5caijw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Un bon Protocol Ambiental respon a quatre fases del projecte:</p>
+<ul>
+<li>Anàlisi inicial,</li>
+<li>Comunicació i muntatge,</li>
+<li>Dia del Market</li>
+<li>Avaluació post-Market.</li>
+</ul>
+<p>Cada fase té categories i preguntes concretes. El que distingeix un Protocol veraç d'un Protocol inventat per IA és la adequació a la realitat del projecte. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780238621772-5mh5caijw","textInfoDurationInput":"","textInfoDurationTextInput":"Durada","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupació","textTextarea":"<p>Un bon Protocol Ambiental respon a quatre fases del projecte:</p>\n<ul>\n<li>Anàlisi inicial,</li>\n<li>Comunicació i muntatge,</li>\n<li>Dia del Market</li>\n<li>Avaluació post-Market.</li>\n</ul>\n<p>Cada fase té categories i preguntes concretes. El que distingeix un Protocol veraç d'un Protocol inventat per IA és la adequació a la realitat del projecte. </p>","textFeedbackInput":"Mostra la retroacció","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780238608334-ub11zn6i2</odePageId>
+      <odeBlockId>block-1780238788389-c0hov5r1m</odeBlockId>
+      <blockName>Totes les parades tenien una proposta sotenible darrera</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780238608334-ub11zn6i2</odePageId>
+          <odeBlockId>block-1780238788389-c0hov5r1m</odeBlockId>
+          <odeIdeviceId>idevice-1780238788387-0f9uoxgpg</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1780238788387-0f9uoxgpg" title="Serveis amb productes en préstec" href="{{context_path}}/content/resources/WhatsApp Image 2026-05-14 at 10.05.34.jpeg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/WhatsApp Image 2026-05-14 at 10.05.34.jpeg" height="128" width="128" title="Serveis amb productes en préstec" alt="Serveis amb productes en préstec" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1780238788387-0f9uoxgpg" title="Llavors i terra" href="{{context_path}}/content/resources/WhatsApp Image 2026-05-14 at 10.38.46.jpeg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/WhatsApp Image 2026-05-14 at 10.38.46.jpeg" height="128" width="128" title="Llavors i terra" alt="Llavors i terra" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_2" class="imageContainer"> <a idevice-id="idevice-1780238788387-0f9uoxgpg" title="Serveis amb pocs materials" href="{{context_path}}/content/resources/WhatsApp Image 2026-05-14 at 10.38.47.jpeg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/WhatsApp Image 2026-05-14 at 10.38.47.jpeg" height="128" width="128" title="Serveis amb pocs materials" alt="Serveis amb pocs materials" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780238788387-0f9uoxgpg","img_0":{"img":"{{context_path}}/content/resources/WhatsApp Image 2026-05-14 at 10.05.34.jpeg","thumbnail":"{{context_path}}/content/resources/WhatsApp Image 2026-05-14 at 10.05.34.jpeg","title":"Serveis amb productes en préstec","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/WhatsApp Image 2026-05-14 at 10.38.46.jpeg","thumbnail":"{{context_path}}/content/resources/WhatsApp Image 2026-05-14 at 10.38.46.jpeg","title":"Llavors i terra","linktitle":"","author":"","linkauthor":"","license":""},"img_2":{"img":"{{context_path}}/content/resources/WhatsApp Image 2026-05-14 at 10.38.47.jpeg","thumbnail":"{{context_path}}/content/resources/WhatsApp Image 2026-05-14 at 10.38.47.jpeg","title":"Serveis amb pocs materials","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1780238608334-ub11zn6i2</odePageId>
+      <odeBlockId>block-1780239058010-svwqmskq0</odeBlockId>
+      <blockName>Pros i cons del protocol de Refresca2</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780238608334-ub11zn6i2</odePageId>
+          <odeBlockId>block-1780239058010-svwqmskq0</odeBlockId>
+          <odeIdeviceId>idevice-1780239058008-h49227glu</odeIdeviceId>
+          <odeIdeviceTypeName>casestudy</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-casestudy-container">
+  
+        <div class="caseStudyContent">            
+            <div class="CSP-Info mb-3">
+                
+            <dl>
+                <div class="inline"><dt><span title=""></span></dt><dd></dd></div>
+                <div class="inline"><dt><span title=""></span></dt><dd></dd></div>
+            </dl>
+            </div>
+            <div class="CSP-History mb-3" >
+                <p>A continuació analitzaré algunes de les parts del Protocol de Refresca2 perquè puguis entendre els seus punts forts i febles i aprendre'n:</p>
+<p><strong>FASE 1 - Materials i residus</strong>. "Els materials principals venen de macros propers, les coses materials i alimentàries, alguns aliments sostenibles de fruiteries amb el Rosetó, i per als ventalls donació de bosses dels alumnes i professors." Explica d'on van venir realment els materials (Rosetó i donacions). No diu "d'horts ecològics de la zona" quan en realitat van venir del Macro a través del Rosetó.</p>
+<p><strong>FASE 1 - Embalatge</strong>. "El producte es lliura en got reutilitzable amb sistema de dipòsit de retornament d'1€. El client retorna el got al final". Descriu el sistema operatiu que inicialment es va idear. Això no obstant, a la pràctica, els gots no van ser reutilitzables tot i que si que es va aplicar -en certa mesura- el sistema de dipòsit. Aquí, el protocol hauria d'haver explicat perquè finalment es va canviar d'idea. </p>
+<p><strong>FASE 1 - Excedents.</strong> "Al final del Market, el que quedi es repartirà entre l'equip i el professorat. Les restes de fruita tallada van al contenidor de compostatge marró. En cas de quedar fruita sense obrir, es valorarà donar-la al Banc dels Aliments." En aquest punt, la donació al Banc dels Aliments no és realista (no val la pena desplaçar-se fins a l'Hospitalet del Llobregat per donar 4 llimones) i en cap moment es va valorar fer-ho. El més adequat hauria estat escriure que es donarien al Rosetó pels serveis habituals.</p>
+<p><strong>FASE 3 - Pla del dia</strong>. "Portarem 3 bosses de colors a la parada: marró per a orgànics, blau per a paper, groc per a envasos. Els gots reutilitzables tindran un cub d'aigua a part per rentar-los entre usos." Era una bona idea, però el dia del Market aquesta parada no va portar les 3 bosses -&gt; en l'apartat Post-Market hauria hagut d'explicar per què no ho van fer.</p>
+            </div>
+            <div class="CSP-Activities mb-3">
+                
+                <div class="CSP-ActivityDiv ">
+                    <div class="CSP-Activity mb-3">
+                        <p>Analitza el teu Protocol original amb aquesta perspectiva crítica.</p>
+<p>Torna'l a redactar pensant en la idea que tenies al cap mentre preparaves la Pop Up (Fases 1 i 2) allò que vas fer el dia del Market (Fase 3) i en la Fase Post-Market. Fixa't que sota de cada pregunta posa "Canvis i incidències" aquí has d'explicar per què allò que s'havia ideat en un primer moment no es va poder acabar duent a terme.  </p>
+                    </div>
+                    
+                    <div class="CSP-FeedbackText feedback js-feedback js-hidden" style="display: none;">
+                        
+                    </div>
+                </div>
+            
+            </div>
+        </div>
+    
+</div>
+]]></htmlView>
+          <jsonProperties><![CDATA[{"id":"idevice-1780239058008-h49227glu","typeGame":"Case study","history":"<p>A continuació analitzaré algunes de les parts del Protocol de Refresca2 perquè puguis entendre els seus punts forts i febles i aprendre'n:</p>\n<p><strong>FASE 1 - Materials i residus</strong>. \"Els materials principals venen de macros propers, les coses materials i alimentàries, alguns aliments sostenibles de fruiteries amb el Rosetó, i per als ventalls donació de bosses dels alumnes i professors.\" Explica d'on van venir realment els materials (Rosetó i donacions). No diu \"d'horts ecològics de la zona\" quan en realitat van venir del Macro a través del Rosetó.</p>\n<p><strong>FASE 1 - Embalatge</strong>. \"El producte es lliura en got reutilitzable amb sistema de dipòsit de retornament d'1€. El client retorna el got al final\". Descriu el sistema operatiu que inicialment es va idear. Això no obstant, a la pràctica, els gots no van ser reutilitzables tot i que si que es va aplicar -en certa mesura- el sistema de dipòsit. Aquí, el protocol hauria d'haver explicat perquè finalment es va canviar d'idea. </p>\n<p><strong>FASE 1 - Excedents.</strong> \"Al final del Market, el que quedi es repartirà entre l'equip i el professorat. Les restes de fruita tallada van al contenidor de compostatge marró. En cas de quedar fruita sense obrir, es valorarà donar-la al Banc dels Aliments.\" En aquest punt, la donació al Banc dels Aliments no és realista (no val la pena desplaçar-se fins a l'Hospitalet del Llobregat per donar 4 llimones) i en cap moment es va valorar fer-ho. El més adequat hauria estat escriure que es donarien al Rosetó pels serveis habituals.</p>\n<p><strong>FASE 3 - Pla del dia</strong>. \"Portarem 3 bosses de colors a la parada: marró per a orgànics, blau per a paper, groc per a envasos. Els gots reutilitzables tindran un cub d'aigua a part per rentar-los entre usos.\" Era una bona idea, però el dia del Market aquesta parada no va portar les 3 bosses -&gt; en l'apartat Post-Market hauria hagut d'explicar per què no ho van fer.</p>","textInfoDurationInput":"","textInfoDurationTextInput":"Durada","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupació","activities":[{"activity":"<p>Analitza el teu Protocol original amb aquesta perspectiva crítica.</p>\n<p>Torna'l a redactar pensant en la idea que tenies al cap mentre preparaves la Pop Up (Fases 1 i 2) allò que vas fer el dia del Market (Fase 3) i en la Fase Post-Market. Fixa't que sota de cada pregunta posa \"Canvis i incidències\" aquí has d'explicar per què allò que s'havia ideat en un primer moment no es va poder acabar duent a terme.  </p>","feedback":"","buttonCaption":"Mostra la retroacció"}]}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780240175118-0jgu67hdf</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Pla d&apos;acció: refer els 3 encàrrecs</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Pla d&apos;acció: refer els 3 encàrrecs</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780240175118-0jgu67hdf</odePageId>
+      <odeBlockId>block-1780240185227-ovf9wsqsd</odeBlockId>
+      <blockName>Passa a l&apos;acció</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780240175118-0jgu67hdf</odePageId>
+          <odeBlockId>block-1780240185227-ovf9wsqsd</odeBlockId>
+          <odeIdeviceId>idevice-1780240185226-t9h7krd0u</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Ara toca aplicar el que has après. Aquestes són les passes per recuperar els tres encàrrecs fent una bona feina.</p>
+<ol>
+<li title="">Omple el <strong>Google Forms </strong>que trobaràs <a href="https://docs.google.com/forms/d/e/1FAIpQLSe6fzfRmFOMms-UM3Hq-a5WwZ8XOolu1W0WJoK8RIu0yZ0iVQ/viewform?usp=header">en aquest enllaç</a>. T'ocuparà 5 minuts. És el que confirma que has fet aquesta Guia de recuperació.</li>
+<li><strong>Descarrega les plantilles dels Encàrrecs</strong> (les trobaràs al treball d'aula del Classroom de sostenibilitat).</li>
+<li>Fes una còpia al teu Drive i posa-li el nom de la teva pop-up + el teu nom.</li>
+<li><strong>Lliura els Encàrrecs </strong>a la tasca del Classroom amb aquest propòsit el més aviat possible. Jo no els miraré fins dilluns 8 de juny a les 13:00h, i els podràs seguir editant tot i que m'hagis compartit l'enllaç.<br /></li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780240185226-t9h7krd0u","textInfoDurationInput":"","textInfoDurationTextInput":"Durada","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupació","textTextarea":"<p>Ara toca aplicar el que has après. Aquestes són les passes per recuperar els tres encàrrecs fent una bona feina.</p>\n<ol>\n<li title=\"\">Omple el <strong>Google Forms </strong>que trobaràs <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSe6fzfRmFOMms-UM3Hq-a5WwZ8XOolu1W0WJoK8RIu0yZ0iVQ/viewform?usp=header\">en aquest enllaç</a>. T'ocuparà 5 minuts. És el que confirma que has fet aquesta Guia de recuperació.</li>\n<li><strong>Descarrega les plantilles dels Encàrrecs</strong> (les trobaràs al treball d'aula del Classroom de sostenibilitat).</li>\n<li>Fes una còpia al teu Drive i posa-li el nom de la teva pop-up + el teu nom.</li>\n<li><strong>Lliura els Encàrrecs </strong>a la tasca del Classroom amb aquest propòsit el més aviat possible. Jo no els miraré fins dilluns 8 de juny a les 13:00h, i els podràs seguir editant tot i que m'hagis compartit l'enllaç.<br /></li>\n</ol>","textFeedbackInput":"Mostra la retroacció","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
